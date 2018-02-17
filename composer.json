@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\rik471\\php-classes\\src"
+            "Hcode\\": "vendor\\rik471\\php-classes\\src"
         }
     }
 }
