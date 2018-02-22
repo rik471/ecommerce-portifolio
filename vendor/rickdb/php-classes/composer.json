@@ -1,9 +1,9 @@
 {
-    "name": "Rickdb/php-classes",
+    "name": "rik471/php-classes",
     "minimum-stability": "dev",
     "type": "library",
     "description": "Classes PHP",
-    "homepage": "https://github.com/hcodebr/php-classes",
+    "homepage": "https://github.com/rik471/php-classes",
     "authors": [
         {
             "name": "Rick G. Oliveira",
