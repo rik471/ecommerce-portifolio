@@ -2,16 +2,13 @@
 
 require_once("vendor/autoload.php");
 
-use \Slim\Slim;
-use \Rickdb\Page;
-
-$app = new Slim();
+$app = new Slim\Slim();
 
 $app->config('debug', true);
 
 $app->get('/', function() {
 
-	$page = new Page();
+	$page = new Rickdb\Page();
 
 	$page->setTpl("index");
 
