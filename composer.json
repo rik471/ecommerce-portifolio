@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Rickdb\\": "vendor\\rik471\\php-classes\\src"
+            "Rickdb\\": "vendor\\rickdb\\php-classes\\src"
         }
     }
 }

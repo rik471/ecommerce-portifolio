@@ -16,7 +16,7 @@ class Page {
 
   public function __construct($options = array()){
 
-    $this->options = array_merge($this->$defaults, $opts);
+    $this->options = array_merge($this->defaults, $options);
 
     $config = array(
         "base_url"      => null,
